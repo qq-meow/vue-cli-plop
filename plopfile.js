@@ -18,11 +18,11 @@ function getTemplate(path, callback, type = 'empty') {
             clone: true
         }, callback);
     } else if (type === 'elementui') {
-        download('direct:https://github.com/qq-meow/elemnt-vue.git#main', path, {
+        download('direct:https://github.com/qq-meow/element-vue.git#master', path, {
             clone: true
         }, callback);
     } else if (type === 'iviewui') {
-        download('direct:https://github.com/qq-meow/iview-vue.git#main', path, {
+        download('direct:https://github.com/qq-meow/iview-vue.git#master', path, {
             clone: true
         }, callback);
     }

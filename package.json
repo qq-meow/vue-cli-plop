@@ -12,13 +12,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "plop": "plop",
-    "init-plop-vue": "plop",
+    "init-plop-vue2": "plop",
     "bin": "bin/index.js"
   },
   "author": "qq-meow",
   "description": "基于plop的自定义vue前端脚手架",
   "bin": {
-    "init-plop-vue": "bin/index.js"
+    "init-plop-vue2": "bin/index.js"
   },
   "dependencies": {
     "download-git-repo": "^3.0.2",

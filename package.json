@@ -15,7 +15,7 @@
     "create-plop-vue": "plop",
     "bin": "bin/index.js"
   },
-  "author": "小黄皮",
+  "author": "qq-meow",
   "description": "基于plop的自定义vue前端脚手架",
   "bin": {
     "create-plop-vue": "bin/index.js"

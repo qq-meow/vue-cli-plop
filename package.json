@@ -1,10 +1,10 @@
 {
-  "name": "plop-vue-cli",
+  "name": "vue-cli-plop",
   "version": "0.0.1",
   "main": "plopfile.js",
   "license": "MIT",
   "keywords": [
-    "plop-vue-cli",
+    "vue-cli-plop",
     "cli",
     "vue",
     "plop"
